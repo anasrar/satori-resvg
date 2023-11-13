@@ -37,7 +37,7 @@ const template = (
           border: "8px solid rgba(255, 255, 255, 0.2)",
           borderRadius: "50%",
         }}
-        src="https://placeimg.com/240/240/animals"
+        src="https://placekitten.com/240/240"
         alt="animals"
       />
     </div>
